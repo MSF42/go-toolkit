@@ -1,3 +1,3 @@
-module github.com/msf42/go-toolkit
+module github.com/MSF42/go-toolkit
 
-go 1.20
+go 1.22.4
